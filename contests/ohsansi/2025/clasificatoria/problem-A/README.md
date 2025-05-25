@@ -8,8 +8,17 @@ Imprimir:
 
 ## Subtareas
 
-1. N es par.
-2. N es impar.
-3. $1 \leq N \leq 10^5$
-4. $1 \leq N \leq 10^9$
-5. Sin restricciones adicionales.
+### Subtarea 1 (20 puntos)
+* N es par.
+
+### Subtarea 2 (30 puntos)
+* N es impar.
+
+### Subtarea 3 (10 puntos)
+* $1 \leq N \leq 10^5$
+
+### Subtarea 4 (10 puntos)
+* $1 \leq N \leq 10^9$
+
+### Subtarea 5 (30 puntos)
+* Sin restricciones adicionales.
