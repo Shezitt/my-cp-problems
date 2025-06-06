@@ -12,14 +12,14 @@ Imprimir:
 
 ## Subtareas
 
-### Subtarea 1
+### Subtarea 1 (5 puntos)
 * El arreglo no tiene repetidos consecutivos: $A_i \neq A_{i+1}$ para todo $1 \leq i < N$
 
-### Subtarea 2
+### Subtarea 2 (7 puntos)
 * Si $A_i = A_{i+1}$ se garantiza que $A_{i+1} \neq A_{i+2}$.
 
-### Subtarea 3
+### Subtarea 3 (38 puntos)
 * $1 \leq N \leq 1000$
 
-### Subtarea 4
+### Subtarea 4 (50 puntos)
 * Sin restricciones adicionales.
